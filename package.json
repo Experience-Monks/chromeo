@@ -1,6 +1,6 @@
 {
   "name": "chromeo",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "experimental Node-Browser bridge",
   "main": "index.js",
   "license": "MIT",
