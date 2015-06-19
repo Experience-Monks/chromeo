@@ -4,6 +4,8 @@
 
 experimental Node-Browser bridge
 
+##### work in progress
+
 a lot of this code will eventually be shared by budo / hihat since they are doing some similar things
 
 main use cases:
