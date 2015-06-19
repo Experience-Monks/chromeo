@@ -11,7 +11,7 @@ a lot of this code will eventually be shared by budo / hihat since they are doin
 main use cases:
 
 - writing tests that need to operate on both Node and Browser code
-  - e.g. testing a HTMLImageElement loader by serving your own images with `http` module
+  - e.g. testing xhr/images/etc while running your own local `http` server
 - easier way to test and develop typical node modules
   - debugger, breakpoints, etc
 - moar cool stuff
