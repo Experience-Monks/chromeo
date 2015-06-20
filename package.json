@@ -4,6 +4,9 @@
   "description": "experimental Node-Browser bridge",
   "main": "index.js",
   "license": "MIT",
+  "bin": {
+    "chromeo": "./bin/cmd.js"
+  },
   "author": {
     "name": "Matt DesLauriers",
     "email": "dave.des@gmail.com",
